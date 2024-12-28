@@ -28,7 +28,7 @@
         "carbohydrateContent": "40g",
         "proteinContent": "30g"
       },
-      "image": "https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.png",
+      "image": "https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.webp",
       "recipeIngredient": [
         "Yellow rice or couscous",
         "Grilled chicken shawarma",
@@ -80,7 +80,7 @@
 <body>
     <h1>Mediterranean Street Cart Bowl Bar</h1>
     <p><strong>Description:</strong> A customizable Mediterranean-inspired street cart bowl bar featuring a variety of proteins, toppings, and sauces for a delicious and interactive meal experience.</p>
-    <img src="https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.png" alt="Mediterranean Street Cart Bowl Bar" style="width:100%; max-width:500px;">
+    <img src="https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.webp" alt="Mediterranean Street Cart Bowl Bar" style="width:100%; max-width:500px;">
     <h2>Ingredients</h2>
     <ul>
         <li>Yellow rice or couscous</li>
