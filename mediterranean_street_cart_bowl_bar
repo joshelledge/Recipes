@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mediterranean Street Cart Bowl Bar</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mediterranean Street Cart Bowl Bar",
+      "author": {
+        "@type": "Person",
+        "name": "Josh Elledge"
+      },
+      "description": "A customizable Mediterranean-inspired street cart bowl bar featuring a variety of proteins, toppings, and sauces for a delicious and interactive meal experience.",
+      "prepTime": "PT30M",
+      "cookTime": "PT40M",
+      "totalTime": "PT70M",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mediterranean",
+      "keywords": "Mediterranean, bowl bar, customizable meal",
+      "recipeYield": "6 servings",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "450 calories",
+        "fatContent": "15g",
+        "carbohydrateContent": "40g",
+        "proteinContent": "30g"
+      },
+      "image": "https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.png",
+      "recipeIngredient": [
+        "Yellow rice or couscous",
+        "Grilled chicken shawarma",
+        "Falafel",
+        "Warm chickpeas",
+        "Cucumber and tomato salad",
+        "Grilled zucchini and eggplant",
+        "Pickled red onions",
+        "Garlic yogurt sauce",
+        "Tahini sauce",
+        "Harissa sauce",
+        "Hummus",
+        "Feta cheese",
+        "Kalamata olives",
+        "Pita chips",
+        "Toasted pine nuts",
+        "Fresh parsley and mint"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the base: Prepare yellow rice or couscous according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grill proteins: Season chicken with shawarma spices and grill until golden. Prepare falafel or warm chickpeas in olive oil with spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare sauces: Mix garlic yogurt, tahini sauce, and harissa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop and prepare veggies: Dice cucumbers, tomatoes, and pickled red onions. Grill zucchini and eggplant."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange extras: Crumble feta, toast pine nuts, and prep pita chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve: Arrange ingredients buffet-style and let guests build their bowls."
+        }
+      ],
+      "notes": "Ideal for gatherings or parties. Can be adjusted to include vegan or vegetarian options. Incorporate seasonal veggies for variety."
+    }
+    </script>
+</head>
+<body>
+    <h1>Mediterranean Street Cart Bowl Bar</h1>
+    <p><strong>Description:</strong> A customizable Mediterranean-inspired street cart bowl bar featuring a variety of proteins, toppings, and sauces for a delicious and interactive meal experience.</p>
+    <img src="https://joshelledge.github.io/Recipes/mediterranean_street_cart_bowl_bar.png" alt="Mediterranean Street Cart Bowl Bar" style="width:100%; max-width:500px;">
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Yellow rice or couscous</li>
+        <li>Grilled chicken shawarma</li>
+        <li>Falafel</li>
+        <li>Warm chickpeas</li>
+        <li>Cucumber and tomato salad</li>
+        <li>Grilled zucchini and eggplant</li>
+        <li>Pickled red onions</li>
+        <li>Garlic yogurt sauce</li>
+        <li>Tahini sauce</li>
+        <li>Harissa sauce</li>
+        <li>Hummus</li>
+        <li>Feta cheese</li>
+        <li>Kalamata olives</li>
+        <li>Pita chips</li>
+        <li>Toasted pine nuts</li>
+        <li>Fresh parsley and mint</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+        <li>Cook the base: Prepare yellow rice or couscous according to package instructions.</li>
+        <li>Grill proteins: Season chicken with shawarma spices and grill until golden. Prepare falafel or warm chickpeas in olive oil with spices.</li>
+        <li>Prepare sauces: Mix garlic yogurt, tahini sauce, and harissa.</li>
+        <li>Chop and prepare veggies: Dice cucumbers, tomatoes, and pickled red onions. Grill zucchini and eggplant.</li>
+        <li>Arrange extras: Crumble feta, toast pine nuts, and prep pita chips.</li>
+        <li>Serve: Arrange ingredients buffet-style and let guests build their bowls.</li>
+    </ol>
+</body>
+</html>
